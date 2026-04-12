@@ -1,7 +1,8 @@
 # Contributions Doc
-## Potential Contributions
+## Contributions
 ### Week of 4/1-4/8
 - [Issue #118230](https://github.com/godotengine/godot/issues/118230) Max worked and created a pull request for this issue. Took him a bit to figure out everything but managed to get the request sent. This issue was getting the dialog box to display the Node name when closing an unsaved scene. The issue has been worked on but isn't fully implemented. This took me around 3 hours just because this was my first time looking at the code and trying to figure out how to read it and find the problem. Right now it only displays the name of the root node of the first closed unsaved scene, so I'm going to look into fixing that to account for the rest of the scenes.
 ### Week of 4/8-4/15: 
 - Max continued to work on the same issue from last week because it required more time to fully fix the bug. Scenes were being saved using string names which resulted in unnamed scenes being added to the closing scenes list as an empty string that would be compared to other closed scenes. I changed this to use ints instead so that each page being closed has a unique number to close. This fix took an hour to complete.
-- The pull request 
+- The pull request was blocked due to some styling issues so that took about a half an hour to figure out how to get pre-commit working.
+- [Issue #118484](https://github.com/godotengine/godot/issues/118484) 
