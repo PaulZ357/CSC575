@@ -5,4 +5,4 @@
 ### Week of 4/8-4/15: 
 - Max continued to work on the same issue from last week because it required more time to fully fix the bug. Scenes were being saved using string names which resulted in unnamed scenes being added to the closing scenes list as an empty string that would be compared to other closed scenes. I changed this to use ints instead so that each page being closed has a unique number to close. This fix took an hour to complete.
 - The pull request was blocked due to some styling issues so that took about a half an hour to figure out how to get pre-commit working.
-- [Issue #118484](https://github.com/godotengine/godot/issues/118484) 
+- [Issue #118484](https://github.com/godotengine/godot/issues/118484) This issue was for Godot's "Distraction Free Mode". When toggled, only the side menus would close. One user thought that toggling DFM should also hide the bottom panel as well so I went ahead and fixed that. This took about three hours due to trying to find the necessary components in the files, rebuilding the project, testing, performing style checks, and finally creating the pull request.
