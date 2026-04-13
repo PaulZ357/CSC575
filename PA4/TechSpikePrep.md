@@ -15,4 +15,4 @@
 -**Aleena:** 
 [Game Engine Input Handler](https://github.com/aleenagraveline/InputHandlerArtifact)
 -**Max:**
-[Vector Math]()
+[Vector Math](https://github.com/riatmax/VectorArtifact)
