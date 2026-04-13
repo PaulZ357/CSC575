@@ -67,7 +67,7 @@ Most of the organization is fairly simple to find with a few exceptions. A lot o
 I believe this to be an easy project to start on based solely on the documentation for now. It seems like the documentation was made specifically with welcoming people into the project in mind. All of the information needed is available and relatively easy to find.
 
 ## Community Communication
-- [Discord](https://discord.com/invite/godotengine)
+- [Discord](https://discord.chbom/invite/godotengine)
   - **Purpose:** General socializing + a place for posting announcements. This is mostly for using the product rather than contributing to it
   - **Currency:** A minute ago, this channel is used quite frequently
   - **Activity:** There are too many to count, people have a lot of active conversations and can even join calls to talk to one another
