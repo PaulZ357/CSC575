@@ -7,6 +7,12 @@
 **Vector Math**
 - Max planned a backup artifact where he used C++ to build a Vector math script.
 - This artifact was individually designed by Max and not connected to Godot's source code.
-**Game Engine Input**
+**Game Engine Input Handler**
 - Aleena planned a backup artifact where she used C++ to build a basic input system for a game engine with a rendered square that moves according to WSAD keyboard input. 
 - This artifact was individually designed by Aleena and not connected to Godot's source code. 
+
+## Completed Artifacts
+-**Aleena:** 
+[Game Engine Input Handler](https://github.com/aleenagraveline/InputHandlerArtifact)
+-**Max:**
+[Vector Math]()
