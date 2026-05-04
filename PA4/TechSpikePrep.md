@@ -1,4 +1,5 @@
 # Tech Spike Prep
+
 ## Planned Spike Artifacts
 **Godot x C++ Artifacts**
 - We want to each create an artifact where we program something in C++ using Godot. We will explore the C++ extension that allows for programming in C++ in Godot. 
